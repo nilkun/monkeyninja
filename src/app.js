@@ -1,4 +1,4 @@
-import Viewport from "../../shared/engine/Viewport.js";
+import Viewport from "../shared/engine/Viewport.js";
 import create from "./--create.js";
 import ImageAssets from "./ImageAssets.js";
 import Player from "./Player.js";
